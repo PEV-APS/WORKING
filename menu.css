@@ -243,12 +243,12 @@ section{
 
 .content{
     max-width: 650px;
-    margin: 60px 100px;
+    margin: 60px 60px;
 }
 
 .content .info h2{
     color: #0F4707;
-    font-size: 55px;
+    font-size: 50px;
     text-transform: uppercase;
     font-weight: 800;
     letter-spacing: 2px;
@@ -259,7 +259,7 @@ section{
 
 .content .info h2 span{
     color: #0F4707;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
 
 }
@@ -290,7 +290,7 @@ section{
 
 .titulo2 h1{
     color: #0F4707;
-    font-size: 55px;
+    font-size: 45px;
     text-transform: uppercase;
     font-weight: 800;
     letter-spacing: 2px;
